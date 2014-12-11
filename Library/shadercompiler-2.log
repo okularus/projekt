@@ -1,0 +1,39 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-2-6040
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=3154 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3154 outsize=381 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3153 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3153 outsize=1812 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3198 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3198 outsize=4753 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1251 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1251 outsize=374 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1001 outsize=137 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1001 outsize=1877 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1354 outsize=2275 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=912 outsize=365 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=912 outsize=77 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=867 outsize=133 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=793 outsize=290 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=952 outsize=1138 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Potok zosta³ zakoñczony.
+
+
+Quitting shader compiler process
